@@ -63,4 +63,23 @@ Credit-Card-Fraud-Detection/
 ├── .gitattributes                  # Git LFS configuration
 ├── README.md
 └── requirements.txt                # Python dependencies#
+```
+### 📌 Notes
+Dataset is large (>100MB). Make sure Git LFS is installed.
+Class imbalance is handled using under-sampling or SMOTE (Synthetic Minority Over-sampling Technique).
 
+### 📄 License
+This project is open-source and available under the MIT License.
+
+yaml
+
+
+---
+
+### ✅ Want it with badges or visuals?
+
+I can add:
+- Shields.io badges (build, license, etc.)
+- ROC/AUC Curve or confusion matrix image
+- Links to Colab or Jupyter notebooks  
+Let me know if you want a more visual or professional GitHub-style version.
